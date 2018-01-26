@@ -23,13 +23,13 @@ Apart from organizing talks, SCH has a [facebook group](https://facebook.com/gro
 
 In theory, every student of IIT Kanpur are members of the Science Coffeehouse but active participation and interest is what determines the accepted norms of membership. But for that exact reason, and to extend the great culture of teaching cool ideas from one generation of students to the next, all meets of the Science Coffeehouse are open for everyone, and have seen a wide array of participation from Undergraduate, Post Graduate and Doctoral students. A few faculty have also been noticed to grace a few meetings when they have the time. 
 
-So if you are in IITK, and you are reading this checkout the [meetings page](/sch/meet) for updates, and try to be there. We might not provide good coffee (or any at all) but we do provide cure for addiction (mind boggling ideas that will tire our brain out into sleeping). 
+So if you are in IITK, and you are reading this checkout the [meetings page](/meet) for updates, and try to be there. We might not provide good coffee (or any at all) but we do provide cure for addiction (mind boggling ideas that will tire our brain out into sleeping). 
 
 ### Present Hobby Group leaders
 1. [Navya Gupta](https://www.google.co.in/search?client=ubuntu&channel=fs&q=navya+gupta+&ie=utf-8&oe=utf-8&gfe_rd=cr&dcr=0&ei=8s1qWoz-OorFvAT46b2gDA)
 2. [Sagnik Bhattacharya](http://home.iitk.ac.in/~sagnikb) 
 
-Checkout [this page](/sch/old) for all the old hobby group leaders.
+Checkout [this page](/old) for all the old hobby group leaders.
 
 ## Design and Development
 
