@@ -1,15 +1,16 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Science Coffee House
+email:       seek.iitk@gmail.com
+author:      John Otander, Prannay Khosla
+description: "A science and mathematics enthusiast club"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://<sch>.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
+ - posts.html
  - about.md
  - contact.html
-
+ - subscribe.md
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
@@ -22,19 +23,19 @@ bing_verification:
 # Optional features
 animated:             false
 show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
+show_post_footers:    true
+show_social_icons:    true
 ajaxify_contact_form: false
-enable_mathjax: false
+enable_mathjax: true
 extended_fonts: false
 enable_anchorjs: false
 # Preview image for social media aka og:image and twitter:image
-post_preview_image: false
+post_preview_image: true
 
 # Facebook Page integration
 # (for instant articles and other stuff)
-fb_page: false
-fb_page_id:
+fb_page: true
+fb_page_id: nerds.iitk
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -71,8 +72,8 @@ vk_id:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -82,7 +83,7 @@ share_stumbleupon: false
 share_hackernews: false
 
 text:
-  pagination:
+  pagination: 
     newer: 'Newer'
     older: 'Older'
   share_buttons:
@@ -104,14 +105,15 @@ text:
     coming_soon: 'Coming soon...'
   contact:
     email:    'Email Address'
-    content:  'What would you like to say?'
+    abstract: 'What would you like to give a talk on?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    number:   'Phone Number'
+    submit:   'Punch It'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for contacting us. We will reply as soon as we solve the math problem that will change the world of physics forever. '
   og_locale: 'en_US'
 
 # Build settings

@@ -40,6 +40,12 @@ samp {
   font-size: inherit;
 }
 
+code {
+    padding:3px;
+    margin:1px;
+    border-radius : 3px;
+}
+
 pre {
   margin-top: 0;
   margin-bottom: $space-2;
@@ -57,11 +63,11 @@ blockquote {
   margin-left: 0;
   padding-left: $space-2;
   padding-right: $space-2;
+  background: #eee;
 }
 
 blockquote,
 blockquote p {
-  font-size: $h3;
   font-style: italic;
 }
 
