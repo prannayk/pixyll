@@ -6,9 +6,9 @@ tags: meet
 ---
 
 ## [2017-18-w] Meeting 2
-* Place : KD-101
+* Place : `` xxxxxx ``
 * Date : `` 3-February-2018``
-* Time : `` 0433pm ``
+* Time : `` xxxxxx ``
 
 List of talks : 
 1. **Tushant Mittal** : To be decided
